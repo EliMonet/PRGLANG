@@ -1,0 +1,19 @@
+spelldatabase "spells.txt";
+
+Pokemon pikachu = "Pikachu";
+Pokemon charmander = "Charmander";
+
+show pikachu;
+show charmander;
+
+pikachu move1 charmander;
+show charmander;
+
+charmander move2 pikachu;
+show charmander;
+
+pikachu move3 charmander;
+show charmander;
+
+charmander move4 pikachu;
+show charmander;

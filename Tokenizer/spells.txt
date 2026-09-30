@@ -1,0 +1,16 @@
+move1{
+Attack,
+Value 10
+}
+move2{
+Defend,
+Value 5
+}
+move3{
+Attack,
+Value 20
+}
+move4{
+Defend,
+Value -2
+}
