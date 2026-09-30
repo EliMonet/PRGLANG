@@ -1,0 +1,1 @@
+Built this language for a class by myself. The point of the language is to be used to simulate a battle between two Pokemon using moves from the "spells.txt" file. "File1.txt" is where the code will be run from. Naming conventions and comments may be hard to follow.
